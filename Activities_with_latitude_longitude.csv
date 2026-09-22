@@ -44,7 +44,7 @@ Sr. No.,SKU Code,Activity Name,Vendor Name,Category,Current Status,Rates,GST,Loc
 43,934,South Goa - Single Seater ATV Adventure 300 CC,THE ATV CLUB GOA,ADVENTURE & OUTDOOR,Live,932,18.00%,"Near, Church, Bogmalo, Mormugao, Goa 403807",15.395000,73.815000
 44,933,South Goa - Single Seater ATV Adventure 125 CC,THE ATV CLUB GOA,ADVENTURE & OUTDOOR,Live,763,18.00%,"Near, Church, Bogmalo, Mormugao, Goa 403808",15.395000,73.815000
 45,932,South Goa - Double Seater ATV Adventure 300 CC,THE ATV CLUB GOA,ADVENTURE & OUTDOOR,Live,1356,18.00%,"Near, Church, Bogmalo, Mormugao, Goa 403809",15.395000,73.815000
-46,931,Panjim - Mandovi River Kayaking Adventure - 1.5 Hrs,Konkan Explorers Private Limited,WATER ACTIVITIES,Locked,1714,5.00%,"The Captain's Club, Ribandar, Goa â€“ 403006",15.493000,73.886000
+46,931,Panjim - Mandovi River Kayaking Adventure - 1.5 Hrs,Konkan Explorers Private Limited,WATER ACTIVITIES,Locked,1714,5.00%,"The Captain's Club, Ribandar, Goa Ã¢â‚¬â€œ 403006",15.493000,73.886000
 47,930,Panaji - Sunset Cruise Experience,NIKHILS CRUISING,WATER ACTIVITIES,Live,500,18.00%,Captain of Ports Jetty Panjim,15.500000,73.830000
 48,929,Panjim - Heritage Mosaic Making Workshop,Azulejos De Goa,LOCAL & HERITAGE,Live,2000,18.00%,"1st floor, 7/2, Dayanand Bandodkar Marg, opp. Captain of Ports Jetty, Altinho, Panaji, Goa 403001",15.500000,73.830000
 49,928,South Goa - Dudhsagar Rainforest Glamping And Trek Experience,Passive Active Tourism,ADVENTURE & OUTDOOR,Locked,4760,5.00%,"Dudhsagar, Collem, Goa",15.314000,74.314000
@@ -182,7 +182,7 @@ Sr. No.,SKU Code,Activity Name,Vendor Name,Category,Current Status,Rates,GST,Loc
 181,680,Combo Saver - 4 Water Sports at Mobor Beach,PRINCE OF SAL,WATER ACTIVITIES,Locked,2400,18.00%,Mobor,15.173000,73.946000
 182,678,North Goa : Birdwatching at Dr Salim Ali Bird Sanctuary,Uday The Birdman Charao,NATURE & WILDLIFE,Live,1695,18.00%,"GV7C+657, Ilhas, Madel, Ribandar, Goa 403102",15.493000,73.886000
 183,677,North Goa : Chorao Island Birdwatching Trip,Uday The Birdman Charao,NATURE & WILDLIFE,Locked,2119,18.00%,Charao Island ferry point island side,15.528000,73.873000
-184,676,North Goa : New Year’s Eve Special Dinner Cruise,Paradise Ventures,SAILING & YACHT,Locked,,,Panjim Goa.,15.490900,73.827800
+184,676,North Goa : New Yearâ€™s Eve Special Dinner Cruise,Paradise Ventures,SAILING & YACHT,Locked,,,Panjim Goa.,15.490900,73.827800
 185,672,North Goa - Forest and RiverTrail And Home-style Meals,Eduventures Goa,NATURE & WILDLIFE,Live,1780,18.00%,"958F+55F, NH748, Sangod, Goa 403406",15.383000,74.050000
 186,671,North Goa - Wildlife After Dark - Goa Overnight Herping Trail and Forest Camping,Eduventures Goa,NATURE & WILDLIFE,Locked,4068,18.00%,"Sangod, Goa",15.383000,74.050000
 187,670,North Goa - Forest and River Trail,Eduventures Goa,Monsoon Specials,Live,1271,18.00%,"958F+55F, NH748, Sangod, Goa 403406",15.383000,74.050000
@@ -213,12 +213,12 @@ Sr. No.,SKU Code,Activity Name,Vendor Name,Category,Current Status,Rates,GST,Loc
 212,632,North Goa - Sundowner Dinner Cruise,Shubhangi Floating Paradise,SAILING & YACHT,Locked,2500,18.00%,Chapora River,15.640000,73.750000
 213,631,North Goa - Adiyogam Yoga Retreat (With Overnight Stay),Adiyogam Yoga Retreat,WELLNESS & RELAXATION,Locked,2799,5.00%,"442/2, Bhatawadi, Corgao, Arambol, Goa 403512",15.686800,73.704700
 214,630,North Goa : Adiyogam Yoga Retreat (Without Overnight Stay),Adiyogam Yoga Retreat,WELLNESS & RELAXATION,Locked,1799,5.00%,"442/2, Bhatawadi, Corgao, Arambol, Goa 403512",15.686800,73.704700
-215,626,North Goa - Paradise Dinner Cruise,Paradise Ventures,WATER ACTIVITIES,Live,1099,18.00%,"Santa Monica Jetty Terminal, Avenida Dom João de Castro, Patto Colony, Panaji, Goa 403001",15.496000,73.835000
+215,626,North Goa - Paradise Dinner Cruise,Paradise Ventures,WATER ACTIVITIES,Live,1099,18.00%,"Santa Monica Jetty Terminal, Avenida Dom JoÃ£o de Castro, Patto Colony, Panaji, Goa 403001",15.496000,73.835000
 216,625,North Goa: Sundown Cruise on Paradise,Paradise Ventures,SAILING & YACHT,Locked,,,Panjim Goa,15.490900,73.827800
-217,624,North Goa - Sunset Cruise on Paradise,Paradise Ventures,WATER ACTIVITIES,Live,424,18.00%,"Santa Monica Jetty Terminal, Avenida Dom João de Castro, Patto Colony, Panaji, Goa 403001",15.496000,73.835000
-218,619,North Goa : Venus Yacht Two Hour Cruise (9 Pax),Phoenix Yachts Goa,SAILING & YACHT,Live,12999,18.00%,"Betim – Penha de Franca – Pomburpa – Quitla - Aldona, Porvorim, Alto Porvorim, Penha de Franc, Goa 403101",15.532000,73.849000
+217,624,North Goa - Sunset Cruise on Paradise,Paradise Ventures,WATER ACTIVITIES,Live,424,18.00%,"Santa Monica Jetty Terminal, Avenida Dom JoÃ£o de Castro, Patto Colony, Panaji, Goa 403001",15.496000,73.835000
+218,619,North Goa : Venus Yacht Two Hour Cruise (9 Pax),Phoenix Yachts Goa,SAILING & YACHT,Live,12999,18.00%,"Betim â€“ Penha de Franca â€“ Pomburpa â€“ Quitla - Aldona, Porvorim, Alto Porvorim, Penha de Franc, Goa 403101",15.532000,73.849000
 219,617,North Goa : Yacht Venus One Hour,Phoenix Yachts Goa,SAILING & YACHT,Locked,,,Britona Alto Betim Penha de Franca,15.532000,73.849000
-220,616,North Goa : Phoenix Yacht Two Hour Cruise (15 Pax),Phoenix Yachts Goa,SAILING & YACHT,Live,15000,18.00%,"Betim – Penha de Franca – Pomburpa – Quitla - Aldona, Porvorim, Alto Porvorim, Penha de Franc, Goa 403101",15.532000,73.849000
+220,616,North Goa : Phoenix Yacht Two Hour Cruise (15 Pax),Phoenix Yachts Goa,SAILING & YACHT,Live,15000,18.00%,"Betim â€“ Penha de Franca â€“ Pomburpa â€“ Quitla - Aldona, Porvorim, Alto Porvorim, Penha de Franc, Goa 403101",15.532000,73.849000
 221,615,North Goa : Phoenix Yacht One Hour,Phoenix Yachts Goa,SAILING & YACHT,Locked,,,Britona Alto Betim Penha de Franca,15.532000,73.849000
 222,602,Panjim : Bayliner 275 Yacht Cruise,Yatch Life Goa,SAILING & YACHT,Locked,1313,18.00%,Panjim Goa,15.490900,73.827800
 223,601,North Goa : One Wheeling (Electric Skateboard),Stoke India,ADVENTURE & OUTDOOR,Locked,1500,18.00%,"Candolim Beach, Vagator Beach, Morjim Beach, Arambol Beach, Mandrem Beach, Caranzalem Beach",15.474000,73.810000
@@ -277,7 +277,7 @@ Sr. No.,SKU Code,Activity Name,Vendor Name,Category,Current Status,Rates,GST,Loc
 276,523,South Goa - Group Bioluminescent Trails,Mrugaya Xpeditions,Monsoon Specials,Locked,1200,5.00%,"Survey No 62/1, Sanguem Belgaum Panjim, NH748, near Panchayat Building, Mollem, Goa 403410",15.229000,74.165000
 277,522,South Goa- Group Forest Nature Trail,Mrugaya Xpeditions,Monsoon Specials,Live,1200,5.00%,"Survey No 62/1, Sanguem Belgaum Panjim, NH748, near Panchayat Building, Mollem, Goa 403410",15.229000,74.165000
 278,521,South Goa - Group Forest Night Trails,Mrugaya Xpeditions,Monsoon Specials,Live,1200,5.00%,"Survey No 62/1, Sanguem Belgaum Panjim, NH748, near Panchayat Building, Mollem, Goa 403410",15.229000,74.165000
-279,520,North Goa: Viva São João Feni and Folgaan,The Local Beat,FREEDOM MONTH DEALS,Locked,3305,18.00%,"Old Goa, Goa, India",15.502300,73.911700
+279,520,North Goa: Viva SÃ£o JoÃ£o Feni and Folgaan,The Local Beat,FREEDOM MONTH DEALS,Locked,3305,18.00%,"Old Goa, Goa, India",15.502300,73.911700
 280,519,North Goa - Sao Joao Community Table,MIH THEMATIC TRAILS PRIVATE LIMITED,LOCAL & HERITAGE,Locked,2380,5.00%,"Rd, Badem, Siolim, Goa 403509",15.615200,73.767400
 281,518,South Goa - Forest Night Trails,Mrugaya Xpeditions,Monsoon Specials,Live,1600,5.00%,"Survey No 62/1, Sanguem Belgaum Panjim, NH748, near Panchayat Building, Mollem, Goa 403410",15.229000,74.165000
 282,517,South Goa - Bioluminescent Trails,Mrugaya Xpeditions,Monsoon Specials,Locked,1600,5.00%,"Survey No 62/1, Sanguem Belgaum Panjim, NH748, near Panchayat Building, Mollem, Goa 403410",15.229000,74.165000
@@ -290,7 +290,7 @@ Sr. No.,SKU Code,Activity Name,Vendor Name,Category,Current Status,Rates,GST,Loc
 289,503,Panjim - Tea Trunk Signature High Tea Experience,MIH THEMATIC TRAILS PRIVATE LIMITED,FOOD & CULINARY,Locked,1101,18.00%,Panaji,15.490900,73.827800
 290,502,South Goa - Chandor Heritage Trail,MIH THEMATIC TRAILS PRIVATE LIMITED,LOCAL & HERITAGE,Live,1238,5.00%,"Nossa Senhora de Belem Church, Villa Formosa, Chandor, Guirdolim, Goa 403714",15.264000,74.019000
 291,501,Monsoon: Old Goa Heritage Walk,MIH THEMATIC TRAILS PRIVATE LIMITED,LOCAL & HERITAGE,Locked,1143,5.00%,Old Goa,15.502300,73.911700
-292,500,Goa : Guardian Spirits of Goa – Film Screening,MIH THEMATIC TRAILS PRIVATE LIMITED,MUSEUM & AMUSEMENT PARK,Locked,508,18.00%,Candolim,15.516400,73.762500
+292,500,Goa : Guardian Spirits of Goa â€“ Film Screening,MIH THEMATIC TRAILS PRIVATE LIMITED,MUSEUM & AMUSEMENT PARK,Locked,508,18.00%,Candolim,15.516400,73.762500
 293,499,North Goa : BLUE LINE,PRIVE TOURISM PRIVATE LIMITED,LOCAL & HERITAGE,Locked,570,5.00%,North Goa,15.600000,73.850000
 294,496,North Goa - AC Coach Tour,Fernandes Holiday Makers,LOCAL & HERITAGE,Live,499,5.00%,Calangute / Baga / Candolim / Sinquerim / Arpora,15.543900,73.755300
 295,477,Goa : Amzonite Yacht (15 Pax),Yatch Life Goa,SAILING & YACHT,Locked,2000,18.00%,Mandovi Backwaters,15.510000,73.850000
@@ -340,7 +340,7 @@ Sr. No.,SKU Code,Activity Name,Vendor Name,Category,Current Status,Rates,GST,Loc
 339,386,North Goa - Museum of Goa with Entry,MS MOG Museum of Goa,MUSEUM & AMUSEMENT PARK,Live,254,18.00%,"Museum of Goa,79, Estate, Pilerne Industrial Estates, Pilern, Goa 403511",15.504000,73.810000
 340,379,North Goa - 21-Day Yoga TTC for Partners 200 Hrs - Twin Room,SHIVA YOGA,WELLNESS & RELAXATION,Locked,70000,18.00%,Arambol,15.686800,73.704700
 341,378,North Goa - 11-Day Yoga TTC 100 Hrs - Twin Sharing,SHIVA YOGA,WELLNESS & RELAXATION,Locked,55000,18.00%,Arambol,15.686800,73.704700
-342,377,North Goa : 30-Day Yoga TTC Course for Partners (300 Hrs) – Twin Sharing,SHIVA YOGA,WELLNESS & RELAXATION,Locked,80000,18.00%,Arambol,15.686800,73.704700
+342,377,North Goa : 30-Day Yoga TTC Course for Partners (300 Hrs) â€“ Twin Sharing,SHIVA YOGA,WELLNESS & RELAXATION,Locked,80000,18.00%,Arambol,15.686800,73.704700
 343,376,North Goa - 30-Day Yoga TTC Course 300 Hrs - Dorm Room,SHIVA YOGA,WELLNESS & RELAXATION,Locked,75000,18.00%,Arambol,15.686800,73.704700
 344,375,North Goa - 11-Day Yoga TTC 100 Hrs - Dorm Room,SHIVA YOGA,WELLNESS & RELAXATION,Locked,45000,18.00%,Arambol,15.686800,73.704700
 345,374,North Goa - 21-Day Yoga TTC 200 Hrs - Dorm Room,SHIVA YOGA,WELLNESS & RELAXATION,Locked,65000,18.00%,Arambol,15.686800,73.704700
@@ -388,9 +388,9 @@ Sr. No.,SKU Code,Activity Name,Vendor Name,Category,Current Status,Rates,GST,Loc
 387,291,Trolling Fishing,PRINCE OF SAL,WATER ACTIVITIES,Locked,4500,18.00%,Mobor,15.173000,73.946000
 388,290,South Goa : Fishing trip,PRINCE OF SAL,WATER ACTIVITIES,Locked,,,Mobor,15.173000,73.946000
 389,289,South Goa : Up-River Trip - Bird Watching,PRINCE OF SAL,NATURE & WILDLIFE,Locked,4500,18.00%,Mobor,15.173000,73.946000
-390,288,Mobor : Sunset Sonata – Special Speed Boat,PRINCE OF SAL,WATER ACTIVITIES,Locked,9000,18.00%,Mobor,15.173000,73.946000
-391,286,South Goa : Special Dolphin Trip – Speed Boat,PRINCE OF SAL,WATER ACTIVITIES,Locked,4500,18.00%,Mobor,15.173000,73.946000
-392,284,South Goa : Dolphin Watching Trip – Cruiser Boat,PRINCE OF SAL,WATER ACTIVITIES,Locked,900,18.00%,Mobor,15.173000,73.946000
+390,288,Mobor : Sunset Sonata â€“ Special Speed Boat,PRINCE OF SAL,WATER ACTIVITIES,Locked,9000,18.00%,Mobor,15.173000,73.946000
+391,286,South Goa : Special Dolphin Trip â€“ Speed Boat,PRINCE OF SAL,WATER ACTIVITIES,Locked,4500,18.00%,Mobor,15.173000,73.946000
+392,284,South Goa : Dolphin Watching Trip â€“ Cruiser Boat,PRINCE OF SAL,WATER ACTIVITIES,Locked,900,18.00%,Mobor,15.173000,73.946000
 393,283,South Goa : Speed Boat Rides,PRINCE OF SAL,WATER ACTIVITIES,Locked,1000,18.00%,Mobor,15.173000,73.946000
 394,282,South Goa : Kayaking on Mobor Beach,PRINCE OF SAL,WATER ACTIVITIES,Locked,500,18.00%,Mobor,15.173000,73.946000
 395,280,South Goa : Mobor Beach - Windsurfing,PRINCE OF SAL,WATER ACTIVITIES,Locked,5500,18.00%,Mobor,15.173000,73.946000
@@ -432,7 +432,7 @@ Sr. No.,SKU Code,Activity Name,Vendor Name,Category,Current Status,Rates,GST,Loc
 431,156,ATV Bike Grand Entry for Wedding Couple,Reem Adventures,ADVENTURE & OUTDOOR,Locked,15000,18.00%,Bicholim,15.593000,73.945000
 432,153,North Goa - Kayaking at Siolim,Travel Right Goa,WATER ACTIVITIES,Locked,600,18.00%,Siolim,15.615200,73.767400
 433,148,North Goa - Ocean Trek Hippie Trail,Adventure Breaks,Monsoon Specials,Live,1504,18.00%,"Paliem, Canacona",15.009000,74.130600
-434,144,Sal Backwaters & Mangrove Magic – A Trip for Couples,Prakash K Alfonso,WATER ACTIVITIES,Locked,2750,5.00%,Nuvem,15.272000,73.980000
+434,144,Sal Backwaters & Mangrove Magic â€“ A Trip for Couples,Prakash K Alfonso,WATER ACTIVITIES,Locked,2750,5.00%,Nuvem,15.272000,73.980000
 435,141,North Goa : The Nemo Sunset Experience,Nautilus Sailing Ventures LLP,SAILING & YACHT,Locked,4000,18.00%,Mandovi Backwaters,15.510000,73.850000
 436,140,North Goa : The Nemo Enchanted Island Adventure,Nautilus Sailing Ventures LLP,SAILING & YACHT,Locked,12000,18.00%,Mandovi Backwaters,15.510000,73.850000
 437,138,The Nemo Sunrise Experience,Nautilus Sailing Ventures LLP,SAILING & YACHT,Locked,3500,18.00%,Mandovi Backwaters,15.510000,73.850000
@@ -494,3 +494,4 @@ Panaji, Goa",15.493000,73.833000
 492,44,Goa : Sunrise Kayaking,Anthony Clement Noronha,WATER ACTIVITIES,Locked,1000,18.00%,Kodxel Nadora on river Chapora,15.603000,73.735000
 493,42,Leopard39 Moksh For 15 Pax,Yatch Life Goa,SAILING & YACHT,Locked,45000,18.00%,Mandovi Backwaters,15.510000,73.850000
 494,41,North Goa : Sea Heiress Yacht Cruise (8 Pax),Yatch Life Goa,SAILING & YACHT,Locked,6500,18.00%,Panjim,15.490900,73.827800
+495
